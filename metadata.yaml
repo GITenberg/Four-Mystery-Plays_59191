@@ -1,5 +1,5 @@
 _repo: Four-Mystery-Plays_59191
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Gladstone, Robert Theodore
@@ -12,6 +12,9 @@ contributor:
   - agent_name: Gandell, Shirley Mark Kerr
     gutenberg_agent_id: '50334'
     url: http://www.gutenberg.org/2009/agents/50334
+covers:
+- cover_type: archival
+  image_path: 59191-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Steiner, Rudolf
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26537
     wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59191#Four-Mystery-Plays
 gutenberg_issued: '2019-04-02'
 gutenberg_type: Text
 identifiers:
