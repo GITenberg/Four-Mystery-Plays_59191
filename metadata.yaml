@@ -1,0 +1,38 @@
+_repo: Four-Mystery-Plays_59191
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Gladstone, Robert Theodore
+    gutenberg_agent_id: '50335'
+    url: http://www.gutenberg.org/2009/agents/50335
+  - agent_name: Collison, Harry
+    alias: Collison, H. (Harry)
+    gutenberg_agent_id: '26536'
+    url: http://www.gutenberg.org/2009/agents/26536
+  - agent_name: Gandell, Shirley Mark Kerr
+    gutenberg_agent_id: '50334'
+    url: http://www.gutenberg.org/2009/agents/50334
+creator:
+  author:
+    agent_name: Steiner, Rudolf
+    alias: Steiner, Rudolph
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '26537'
+    url: http://www.gutenberg.org/2009/agents/26537
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
+description: ''
+gutenberg_issued: '2019-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+tableOfContents: The Portal of Initiation --The Soul's Probation -- The Guardian of
+  the Threshold -- The Soul's Awakening
+title: Four Mystery Plays
+url: http://www.gutenberg.org/ebooks/59191
